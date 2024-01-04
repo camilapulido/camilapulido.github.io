@@ -20,9 +20,11 @@
 <p align="center" width="100%">
     <img width="50%" src="images/Axon_SynapticBouton_SpontaneousRelease_Arrow3.gif">
 </p>   
+
 <p align="center" width="100%">
     <img width="50%" src="images/MiniExample_for Video.png">
 </p> 
+
 <p align="center" width="100%">
     <img width="50%" src="images/Minis_superimposed.png">
 </p> 
