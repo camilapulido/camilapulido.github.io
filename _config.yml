@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Camila Pulido, PhD.# your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Neuroscientist | Researcher | Data Analyst  
   <br><br>
-  Second description 
+  Result-driven Scientist with extensive experience in the field of neurobiology and research; specializing in data collection, analysis and interpretation, and project management. Proven track record of contributing to groundbreaking studies and collaborating with global expert teams. Proficient in various data analysis tools and programming languages. Seeking opportunities to leverage analytical skills and research expertise in a dynamic data-driven environment. Authorized to work in the United States as a Green Card holder. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/camilapulido-phd/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
