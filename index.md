@@ -14,7 +14,7 @@
 
 **[III. Computational Modeling to preddict different short-term synaptic plasticity patterns](https://doi.org/10.1085/jgp.201812072)**
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Project3_Fig.png?raw=true"/>
 
 
 
