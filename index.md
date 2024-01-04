@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Automatic detection of Spontaneous Synaptic Activity by the use of the glutamate sensor iGlusnFr](https://github.com/camilapulido/Automatic-Detection-of-spontaneus-activity-with-iGluSnFR/blob/3f3e0ec387952cec4073a0a04a154fc3f44047f5/README.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 ### Computational Modeling:
