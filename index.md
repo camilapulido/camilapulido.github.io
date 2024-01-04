@@ -16,7 +16,16 @@
 </p>
 
 **[II. Automatic detection of Spontaneous Synaptic Activity by the use of the glutamate sensor iGlusnFr](https://github.com/camilapulido/Automatic-Detection-of-spontaneus-activity-with-iGluSnFR/blob/3f3e0ec387952cec4073a0a04a154fc3f44047f5/README.md)**
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/camilapulido/Automatic-Detection-of-spontaneus-activity-with-iGluSnFR/blob/3f3e0ec387952cec4073a0a04a154fc3f44047f5/Figures/Axon_SynapticBouton_SpontaneousRelease_Arrow3.gif">
+</p>   
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/camilapulido/Automatic-Detection-of-spontaneus-activity-with-iGluSnFR/blob/3f3e0ec387952cec4073a0a04a154fc3f44047f5/Figures/MiniExample_for%20Video.png">
+</p> 
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/camilapulido/Automatic-Detection-of-spontaneus-activity-with-iGluSnFR/blob/3f3e0ec387952cec4073a0a04a154fc3f44047f5/Figures/Minis_superimposed.png">
+</p> 
 
 ---
 ## Computational Modeling:
