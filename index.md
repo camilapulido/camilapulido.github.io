@@ -7,13 +7,11 @@
 
 <p align="center" width="100%">
     <img width="26%" src="https://github.com/camilapulido/Neuron-Energy-Consumption/blob/8c056a62b64110fce80cabc4d166f52beb9cdd9e/Images/Switcher_Laser%20637-488.gif"> 
-   
     <img width="40%" src="https://github.com/camilapulido/Neuron-Energy-Consumption/blob/8c056a62b64110fce80cabc4d166f52beb9cdd9e/Images/ExpC1_matrixBoutons.png">  
 </p>
 
 <p align="center" width="100%">
-    <img width="30%" src="https://github.com/camilapulido/Neuron-Energy-Consumption/blob/8c056a62b64110fce80cabc4d166f52beb9cdd9e/Images/ExpC1_Xhalf%20in%20image%20neuron.png"> 
-   
+    <img width="30%" src="https://github.com/camilapulido/Neuron-Energy-Consumption/blob/8c056a62b64110fce80cabc4d166f52beb9cdd9e/Images/ExpC1_Xhalf%20in%20image%20neuron.png">
     <img width="31%" src="https://github.com/camilapulido/Neuron-Energy-Consumption/blob/8c056a62b64110fce80cabc4d166f52beb9cdd9e/Images/ExpC1_Sigmoid%20Fit%20traces.png">      
 </p>
 
@@ -24,7 +22,7 @@
 </p>   
 
 <p align="center" width="100%">
-    <img width="70%" src="images/MiniExample_for Video.png">
+    <img width="80%" src="images/MiniExample_for Video.png">
 </p> 
 
 <p align="center" width="100%">
