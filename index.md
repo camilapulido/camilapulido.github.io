@@ -2,7 +2,7 @@
 
 ---
 
-### Unraveling Neuronal Energetics: A protocol for Data Collection, Analysis, and Visualization within Neuronal Synapses.
+### Image proccecing and Analysis:
 
 [Unraveling Neuronal Energetics: A protocol for Data Collection, Analysis, and Visualization within Neuronal Synapses.](https://github.com/camilapulido/Neuron-Energy-Consumption/blob/8c056a62b64110fce80cabc4d166f52beb9cdd9e/README.md#unraveling-neuronal-energetics-a-protocol-for-data-collection-analysis-and-visualization-within-neuronal-synapses)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -11,19 +11,10 @@
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
+### Category Name 2
+[Computational Modeling to preddict different short-term synaptic plasticity patterns ]([http://example.com/](https://doi.org/10.1085/jgp.201812072))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
