@@ -22,7 +22,7 @@
 </p>   
 
 <p align="center" width="100%">
-    <img width="50%" src="images/MiniExample_for Video.png">
+    <img width="70%" src="images/MiniExample_for Video.png">
 </p> 
 
 <p align="center" width="100%">
