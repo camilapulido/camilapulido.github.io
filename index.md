@@ -5,12 +5,12 @@
 
 ### [I. Unraveling Neuronal Energetics: A protocol for Data Collection, Analysis, and Visualization within Neuronal Synapses](https://github.com/camilapulido/Neuron-Energy-Consumption/blob/8c056a62b64110fce80cabc4d166f52beb9cdd9e/README.md)
 
-<p align="center" width="100%">
+<p align="center" width="50%">
     <img width="26%" src="https://github.com/camilapulido/Neuron-Energy-Consumption/blob/8c056a62b64110fce80cabc4d166f52beb9cdd9e/Images/Switcher_Laser%20637-488.gif"> 
     <img width="40%" src="https://github.com/camilapulido/Neuron-Energy-Consumption/blob/8c056a62b64110fce80cabc4d166f52beb9cdd9e/Images/ExpC1_matrixBoutons.png">  
 </p>
 
-<p align="center" width="100%">
+<p align="center" width="50%">
     <img width="30%" src="https://github.com/camilapulido/Neuron-Energy-Consumption/blob/8c056a62b64110fce80cabc4d166f52beb9cdd9e/Images/ExpC1_Xhalf%20in%20image%20neuron.png">
     <img width="31%" src="https://github.com/camilapulido/Neuron-Energy-Consumption/blob/8c056a62b64110fce80cabc4d166f52beb9cdd9e/Images/ExpC1_Sigmoid%20Fit%20traces.png">      
 </p>
