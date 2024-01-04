@@ -11,8 +11,8 @@
 </p>
 
 <p align="center" width="50%">
-    <img width="30%" src="images/ExpC1_Xhalf in image neuron.png">
-    <img width="31%" src="images/ExpC1_Sigmoid Fit traces.png">      
+    <img width="40%" src="images/ExpC1_Xhalf in image neuron.png">
+    <img width="40%" src="images/ExpC1_Sigmoid Fit traces.png">      
 </p>
 
 ### [II. Automatic detection of Spontaneous Synaptic Activity by the use of the glutamate sensor iGlusnFr](https://github.com/camilapulido/Automatic-Detection-of-spontaneus-activity-with-iGluSnFR/blob/3f3e0ec387952cec4073a0a04a154fc3f44047f5/README.md)
