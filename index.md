@@ -24,7 +24,7 @@
     <img width="50%" src="images/MiniExample_for Video.png">
 </p> 
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/camilapulido/Automatic-Detection-of-spontaneus-activity-with-iGluSnFR/blob/3f3e0ec387952cec4073a0a04a154fc3f44047f5/Figures/Minis_superimposed.png">
+    <img width="50%" src="images/Minis_superimposed.png">
 </p> 
 
 ---
