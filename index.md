@@ -5,8 +5,8 @@
 
 ### [I. Unraveling Neuronal Energetics: A protocol for Data Collection, Analysis, and Visualization within Neuronal Synapses](https://github.com/camilapulido/Neuron-Energy-Consumption/blob/8c056a62b64110fce80cabc4d166f52beb9cdd9e/README.md)
 
-<p align="center" width="50%">
-    <img width="26%" src="images/Switcher_Laser 637-488.gif"> 
+<p align="center" width="100%">
+    <img width="30%" src="images/Switcher_Laser 637-488.gif"> 
     <img width="40%" src="images/ExpC1_matrixBoutons.png">  
 </p>
 
