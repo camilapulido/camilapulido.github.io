@@ -5,6 +5,8 @@
 
 ### [I. Unraveling Neuronal Energetics: A protocol for Data Collection, Analysis, and Visualization within Neuronal Synapses](https://github.com/camilapulido/Neuron-Energy-Consumption/blob/8c056a62b64110fce80cabc4d166f52beb9cdd9e/README.md)
 
+Neuronal images collected with the recently [published](https://doi.org/10.1101/2023.08.24.554624) ATP biosensor, iATPSnFR2.
+
 <p align="center" width="100%">
     <img width="30%" src="images/Switcher_Laser 637-488.gif"> 
     <img width="45%" src="images/ExpC1_matrixBoutons.png">  
