@@ -1,7 +1,7 @@
 ### Portfolio
 ---
 
-## Image Proccesing and Analysis:
+## Image Proccessing and Analysis:
 
 ### [I. Unraveling Neuronal Energetics: A protocol for Data Collection, Analysis, and Visualization within Neuronal Synapses](https://github.com/camilapulido/Neuron-Energy-Consumption/blob/8c056a62b64110fce80cabc4d166f52beb9cdd9e/README.md)
 
