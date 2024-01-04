@@ -7,7 +7,7 @@
 
 <p align="center" width="100%">
     <img width="30%" src="images/Switcher_Laser 637-488.gif"> 
-    <img width="40%" src="images/ExpC1_matrixBoutons.png">  
+    <img width="45%" src="images/ExpC1_matrixBoutons.png">  
 </p>
 
 <p align="center" width="50%">
