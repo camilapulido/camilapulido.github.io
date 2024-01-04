@@ -4,7 +4,7 @@
 ## Image Proccesing and Analysis:
 
 **[I. Unraveling Neuronal Energetics: A protocol for Data Collection, Analysis, and Visualization within Neuronal Synapses](https://github.com/camilapulido/Neuron-Energy-Consumption/blob/8c056a62b64110fce80cabc4d166f52beb9cdd9e/README.md)**
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/camilapulido/Neuron-Energy-Consumption/blob/8c056a62b64110fce80cabc4d166f52beb9cdd9e/Images/Switcher_Laser%20637-488.gif?raw=true"/>
 
 **[II. Automatic detection of Spontaneous Synaptic Activity by the use of the glutamate sensor iGlusnFr](https://github.com/camilapulido/Automatic-Detection-of-spontaneus-activity-with-iGluSnFR/blob/3f3e0ec387952cec4073a0a04a154fc3f44047f5/README.md)**
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
