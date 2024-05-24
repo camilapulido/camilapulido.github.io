@@ -4,7 +4,7 @@
 #  Hello! 
 # [Please visit my new website!!](https://sites.google.com/view/camilapulido-phd/). 
 # It has more details about me and my work!
-
+---
 ## Image Processing and Analysis:
 
 ### [I. Unraveling Neuronal Energetics: A protocol for Data Collection, Analysis, and Visualization within Neuronal Synapses](https://github.com/camilapulido/Neuron-Energy-Consumption/blob/8c056a62b64110fce80cabc4d166f52beb9cdd9e/README.md)
