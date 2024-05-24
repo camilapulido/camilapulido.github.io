@@ -1,8 +1,7 @@
 ### Portfolio
 ---
 
-#  Hello! Please Go visit my new website, which has more details about me and my work!
-[Portfolio](https://sites.google.com/view/camilapulido-phd/)
+#  Hello! [Please Visit my new website!](https://sites.google.com/view/camilapulido-phd/). It has more details about me and my work!
 
 ## Image Processing and Analysis:
 
