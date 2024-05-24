@@ -1,6 +1,8 @@
 ### Portfolio
 ---
 
+#### Check my new Portfolio with more updates 
+
 ## Image Processing and Analysis:
 
 ### [I. Unraveling Neuronal Energetics: A protocol for Data Collection, Analysis, and Visualization within Neuronal Synapses](https://github.com/camilapulido/Neuron-Energy-Consumption/blob/8c056a62b64110fce80cabc4d166f52beb9cdd9e/README.md)
@@ -34,7 +36,7 @@ Neuronal images collected with the recently [published](https://doi.org/10.1101/
 ---
 ## Computational Modeling:
 
-### [III. Computational Modeling to preddict different short-term synaptic plasticity patterns](https://doi.org/10.1085/jgp.201812072)
+### [III. Computational Modeling to predict different short-term synaptic plasticity patterns](https://doi.org/10.1085/jgp.201812072)
 
 <img src="images/Project3_Fig.png?raw=true"/>
 
