@@ -1,8 +1,7 @@
 ### Portfolio
 ---
 
-# [Please visit my new website!!](https://sites.google.com/view/camilapulido-phd/). 
-# It has more details about me and my work!
+# [Go to my new website!!](https://sites.google.com/view/camilapulido-phd/) for more details about me and my work!
 ---
 ## Image Processing and Analysis:
 
