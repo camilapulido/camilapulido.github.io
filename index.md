@@ -1,7 +1,6 @@
 ### Portfolio
 ---
 
-#  Hello! 
 # [Please visit my new website!!](https://sites.google.com/view/camilapulido-phd/). 
 # It has more details about me and my work!
 ---
